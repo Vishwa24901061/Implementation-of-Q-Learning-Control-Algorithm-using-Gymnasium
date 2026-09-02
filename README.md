@@ -15,7 +15,7 @@ Python 3.x
 
 Gymnasium
 
-NumPy
+NumPy 
 
 Matplotlib
 
@@ -290,7 +290,7 @@ env.close()
 
 <img width="862" height="584" alt="image" src="https://github.com/user-attachments/assets/bdacd80f-e061-4a93-bff8-8f5d70b99e78" />
 
----
+```
 
 ## Result
 
